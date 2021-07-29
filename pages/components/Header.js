@@ -1,5 +1,6 @@
 import Image from "next/image"
 import HeaderItem from "./HeaderItem"
+
 import {
     BadgeCheckIcon, CollectionIcon, HomeIcon, LightningBoltIcon,
     SearchIcon, UserIcon
